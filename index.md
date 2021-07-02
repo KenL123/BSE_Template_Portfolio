@@ -1,5 +1,4 @@
-
-﻿# Smart Mirror
+# Smart Mirror
 A smart mirror is a mirror that displays custom information of your choice. Raspberry Pi is used to customise the modules that will show up on the smart mirror through a monitor. 
 
 
