@@ -1,3 +1,4 @@
+
 ﻿# Smart Mirror
 A smart mirror is a mirror that displays custom information of your choice. Raspberry Pi is used to customise the modules that will show up on the smart mirror through a monitor. 
 
@@ -6,8 +7,8 @@ A smart mirror is a mirror that displays custom information of your choice. Rasp
 |:--:|:--:|:--:|:--:|
 | Ken L. | Wilcox High School | Computer Science | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![IMG_0770](https://user-images.githubusercontent.com/86129832/124323359-0b588680-db36-11eb-9811-9501b389bdb0.jpg)
+
 # Final Milestone
 Final Milestone: My final milestone for the magic mirror project is to install the magic mirror and editing the font/foont color of the modules. After getting the frame and hot glue gun delivered, I hot glued the mirror to the wooden frame. This step took longer than expected as I had many problems gluing. First, the hot gluing was drying to fast as I was too slow to put on the mirror on the frame. I also had to remove the glue off the frame becasue it was accumulating volume casuing the mirror to be uneven if it was glued. Second, the glue was not sticking somwtimes. This was pretty annoying so I needed to add extra glue so it can stick. I solved both a these probelms by gluing 1 side at a time really fast. After I did the 4 sides, I put hit glue on the parts where it didn't stick. After finishing the glueing I tested to see if the magic mirror would work. It worked, but the modules were really hard to see. Unfortunately I ran out of time, so in the futire, I can try fixing it by making the font white so it can stand out more. 
 
