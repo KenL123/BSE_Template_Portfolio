@@ -4,7 +4,7 @@ A smart mirror is a mirror that displays custom information of your choice. Rasp
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ken L. | Wilcox High School | Computer Science | Incoming Junior
+| Ken L. | Wilcox High School | Mechanical/Electrical Engineer | Incoming Junior
 
 ![IMG_0770](https://user-images.githubusercontent.com/86129832/124323359-0b588680-db36-11eb-9811-9501b389bdb0.jpg)
 
