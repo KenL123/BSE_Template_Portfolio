@@ -1,10 +1,10 @@
 # Smart Mirror
-A smart mirror is a mirror that displays custom information of your choice. Raspberry Pi is used to customise the modules that will show up on the smart mirror through a monitor. 
+A smart mirror is a two way mirror that displays information of your choice usining a monitor/screen behind the mirror. For example, it can display the weather, date, and time. Raspberry Pi is like a pocket-sized computer and in this project, it is used to customize the modules of the Magic Mirror
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ken L. | Wilcox High School | Mechanical/Electrical Engineer | Incoming Junior
+| Ken L. | Adrian Wilcox High School | Mechanical/Electrical/Software Engineering | Incoming Junior
 
 ![IMG_0770](https://user-images.githubusercontent.com/86129832/124323359-0b588680-db36-11eb-9811-9501b389bdb0.jpg)
 
