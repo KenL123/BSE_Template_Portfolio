@@ -24,7 +24,13 @@ Second Milestone: My second milestone for the magic mirror project is to downloa
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625085480/video_to_markdown/images/youtube--zXp7nldh0Co-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zXp7nldh0Co&ab_channel=BlueStampEng "Second Milestone")
 # First Milestone
-First Milestone: My first milestone for the magic mirror project is to set up the Raspberry Pi, connect it to Wifi, and set up the SSH and VNC to the Raspberry Pi. I downloaded the Raspberry Pi Imager on the sd card and then put it in the Raspberry Pi. In order for the program to show up on the monitor, I plugged the HDMI cable to the monitor so I could boot up the Raspberry Pi and plug the power supply to an outlet. Next, I plugged in my mouse, keyboard, and ethernet cable so I can navigate the screen. In order to remotely get access to the command line from another device with the same network, I will need to download SSH. I also downloaded VNC so I can have access to a full remote desktop from another device. (EDIT)
+First Milestone: My first milestone for the magic mirror project is to set up the Raspberry Pi, connect it to Wifi, and set up the SSH and VNC to the Raspberry Pi. I downloaded the Raspberry Pi Imager on the sd card and then put it in the Raspberry Pi. In order for the program to show up on the monitor, I plugged the HDMI cable to the monitor so I could boot up the Raspberry Pi and plug the power supply to an outlet. Next, I plugged in my mouse, keyboard, and ethernet cable so I can navigate the screen. However, my Raspberry Pi did not seem to work. I plugged in many ethernet cables, mice and keyboard and none of the would seem allow the Raspbery Pi to function. There would always have an no internt sign and the mice and keyboard would not function. After tring to solve this for three days, I have decided that my Raspberry Pi was broken (maybe the pins were bent from delivery). Sfter getting a new Raspberry shipped, the process went soomethly and I got wookring to the next steep.
+
+
+
+In order to remotely get access to the command line from another device with the same network, I will need to download SSH. I also downloaded VNC so I can have access to a full remote desktop from another device. 
+
+(EDIT)
 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625085385/video_to_markdown/images/youtube--KeEngMRJlKo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KeEngMRJlKo&ab_channel=BlueStampEng "First Milestone")
